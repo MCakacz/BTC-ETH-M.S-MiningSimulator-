@@ -62,8 +62,9 @@ password3
 
 This script is licensed under the [MIT](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjh5ej0j7qBAxVQExAIHRIwDLQQFnoECBcQAQ&url=https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FLicencja_MIT&usg=AOvVaw23YLLI-Iwi0nDZ40uyvkLX&opi=89978449) License. See the [LICENSE](https://github.com/MCakacz/Januszyk/blob/main/LICENSE) file for more details.
 
----
-
-**Note:** This README provides a high-level overview of the script and its usage. Please refer to the script's comments and documentation for more detailed information about its functionality and implementation.
+**Note:** This [README](https://github.com/MCakacz/Januszyk/blob/main/README.md) provides a high-level overview of the script and its usage. Please refer to the script's comments and documentation for more detailed information about its functionality and implementation.
 
 For any questions or issues, feel free to contact me.
+---
+
+**Clarification:** From [file](https://github.com/MCakacz/Januszyk/blob/main/main.py) src you can conclude that this file does not actually do any [crypto-related](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiKiOm1lLqBAxXrIhAIHZ4_BfAQFnoECB0QAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCryptocurrency&usg=AOvVaw23s5u17TzWkCzDKm_bEVgx&opi=89978449)https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiKiOm1lLqBAxXrIhAIHZ4_BfAQFnoECB0QAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCryptocurrency&usg=AOvVaw23s5u17TzWkCzDKm_bEVgx&opi=89978449 stuff, it was created only for presentational purposes.
