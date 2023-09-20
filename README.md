@@ -42,7 +42,7 @@ Ensure that the `access_codes.txt` file with login codes is available on the FTP
 
 Below is the sample content of the access_codes.txt file, with each line corresponding to a different code. Each code, which constitutes the entire content of a SINGLE line in the file, will be considered valid.
 ```
-FILE PATH: /access_codes.txt
+FILE PATH: /access_codes.txt <--- this line cannot be included in the file unless you want it to be a access code 😂
 password1
 password2
 password3
