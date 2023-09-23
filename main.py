@@ -11,6 +11,7 @@ import random
 from colorama import Fore, Style
 import atexit
 
+#tworzenie folderu "logs"
 if not os.path.exists("logs"):
     os.makedirs("logs")
 
