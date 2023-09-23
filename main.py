@@ -1,3 +1,4 @@
+#importowanie wymaganych bibliotek
 import tkinter as tk
 from ftplib import FTP
 from io import BytesIO
